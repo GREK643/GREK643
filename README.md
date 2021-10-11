@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GREK643
-- 👀 I’m interested in machine learning, statistics and economics
+- 👀 I’m interested in machine learning, econometrics, statistics and economics
 - 🌱 I’m currently learning python,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
