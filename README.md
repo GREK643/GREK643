@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GREK643
 - 👀 I’m interested in machine learning, econometrics, statistics and economics
-- 🌱 I’m currently learning Python, R, C++, Java
+- 🌱 I’m currently learning Python, R, C++, Java, Julia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
